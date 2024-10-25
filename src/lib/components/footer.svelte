@@ -32,8 +32,8 @@
       Powered by
       <a
         class='tooltip tooltip-secondary hover:text-secondary'
-        data-tip='🌸 [Polaris] - Based on MDsveX & SvelteKit 🌸'
-        href='https://github.com/importantimport/urara'
+        data-tip='🌸 RDx & SvelteKit 🌸'
+        href='https://github.com/Sterlites/xqlzv-blog'
         rel='noopener noreferrer external'
         target='_blank'>
         Urara
