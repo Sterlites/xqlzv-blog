@@ -36,7 +36,7 @@
         href='https://github.com/Sterlites/xqlzv-blog'
         rel='noopener noreferrer external'
         target='_blank'>
-        Urara
+        RDx & SvelteKit
       </a>
       {#if footerConfig.html}
         <br />
